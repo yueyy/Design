@@ -1,0 +1,15 @@
+//选了一个并没有用到二阶三阶贝塞尔曲线的星星试试手2333333
+//这个其实就是把坐标写出来而已23333
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportHeight="40"
+    android:viewportWidth="40">
+
+    <path
+        android:fillColor="@color/colorStar"
+        android:strokeColor="@color/colorStar"
+        android:pathData="M20,5 L25,15 L35,15 L27,25 L30,38 L20,31
+        L10,38 L13,25 L5,15 L15,15 z"/>
+</vector>
